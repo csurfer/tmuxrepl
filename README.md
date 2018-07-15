@@ -9,7 +9,7 @@ I like to keep my tmux workspace organized into a CommandPanel(to type commands 
 and an ExecutionPanel(where the command gets executed). This plugin achieves exactly
 that.
 
-![Demo](https://i.imgur.com/5zCbqIo.gifv)
+![Demo](https://i.imgur.com/5zCbqIo.gif)
 
 ## Setup
 
