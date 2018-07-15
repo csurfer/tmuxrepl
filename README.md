@@ -27,6 +27,17 @@ git clone https://github.com/csurfer/tmuxrepl.git ~/.oh-my-zsh/custom/plugins/
 With setup properly done, you should be able to enter the tmux REPL session using
 command `tmuxrepl`. To exit use `Ctrl-C`.
 
+## Special key bindings
+
+We use a lot of special keys in our day to day shell usage. To actually send those keys to
+the execution pane you have to use it in terms that tmux can understand i,e how you would
+use them in tmux.conf. A few examples are listed below.
+
+|   Key  |   Command panel equivalent |
+|:------:|:--------------------------:|
+| Enter  |   `Enter` or `C-m`         |
+| Escape |   `Escape`                 |
+
 ## Contributing
 
 ### Bug Reports and Feature Requests
