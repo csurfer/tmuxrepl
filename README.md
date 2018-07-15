@@ -15,7 +15,7 @@ that.
 
 1. Clone the repository into oh-my-zsh custom plugin folder.
 ```zsh
-git clone https://github.com/csurfer/tmuxrepl.git ~/.oh-my-zsh/custom/plugins/
+git clone https://github.com/csurfer/tmuxrepl.git ~/.oh-my-zsh/custom/plugins/tmuxrepl
 ```
 
 2. Add `tmuxrepl` into plugin list in your `.zshrc`
