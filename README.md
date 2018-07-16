@@ -3,7 +3,7 @@
 [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/csurfer/tmuxrepl/master/LICENSE)
 [![Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/csurfer)
 
-Stupidly simple zsh plugin to have a REPL tmux session.
+Stupidly simple zsh plugin to have a R-EP-L tmux session.
 
 I like to keep my tmux workspace organized into a CommandPanel(to type commands in)
 and an ExecutionPanel(where the command gets executed). This plugin achieves exactly
